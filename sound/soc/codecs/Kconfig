@@ -1458,5 +1458,5 @@ source "sound/soc/codecs/cs35l43/Kconfig"
 endmenu
 
 #ifdef OPLUS_ARCH_EXTENDS
-source "sound/soc/codecs/audio/Kconfig"
+source "sound/soc/codecs/Kconfig"
 #endif /* OPLUS_ARCH_EXTENDS */
