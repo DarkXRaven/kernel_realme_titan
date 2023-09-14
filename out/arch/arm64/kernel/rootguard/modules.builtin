@@ -1,0 +1,5 @@
+kernel/arch/arm64/kernel/rootguard/oplus_root_check.ko
+kernel/arch/arm64/kernel/rootguard/oplus_exec_block.ko
+kernel/arch/arm64/kernel/rootguard/oplus_mount_block.ko
+kernel/arch/arm64/kernel/rootguard/oplus_guard_general.ko
+kernel/arch/arm64/kernel/rootguard/oplus_hook_syscall.ko

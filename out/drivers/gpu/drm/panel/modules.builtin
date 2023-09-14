@@ -1,0 +1,6 @@
+kernel/drivers/gpu/drm/panel/oplus20181_samsung_ams643ye01_1080p_dsi_cmd.ko
+kernel/drivers/gpu/drm/panel/oplus21081_samsung_ams643ag01_1080p_dsi_cmd.ko
+kernel/drivers/gpu/drm/panel/oplus21851_samsung_ams643ag01_1080p_dsi_cmd.ko
+kernel/drivers/gpu/drm/panel/oplus2169E_samsung_ams643ag01_1080p_dsi_cmd.ko
+kernel/drivers/gpu/drm/panel/oplus22612_tianma_ili7838a_fhd_dsi_cmd.ko
+kernel/drivers/gpu/drm/panel/oplus22612_tianma_ili7838a_t7_plus_fhd_dsi_cmd.ko

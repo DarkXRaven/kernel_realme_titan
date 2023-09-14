@@ -1,0 +1,3 @@
+kernel/sound/soc/codecs/snd-soc-mt6359.ko
+kernel/sound/soc/codecs/snd-soc-rt5512.ko
+kernel/sound/soc/codecs/audio/driver/snd-hal-feedback.ko

@@ -1,0 +1,9 @@
+kernel/drivers/soc/oplus/system/last_boot_reason/last_boot_reason.ko
+kernel/drivers/soc/oplus/system/mtk_shutdown_reboot/mtk_force_shutdown/mtk_force_shutdown.ko
+kernel/drivers/soc/oplus/system/olc/olc.ko
+kernel/drivers/soc/oplus/system/oplus_fdleak/oplus_fdleak_check.ko
+kernel/drivers/soc/oplus/system/oplus_mm_fb/oplus_mm_kevent.ko
+kernel/drivers/soc/oplus/system/oplus_mm_fb/oplus_mm_kevent_fb.ko
+kernel/drivers/soc/oplus/system/oplus_phoenix/oplus_kmsg_wb.ko
+kernel/drivers/soc/oplus/system/oplus_project/gki_mtk/oplus_project.ko
+kernel/drivers/soc/oplus/system/theia/oplus_theia.ko

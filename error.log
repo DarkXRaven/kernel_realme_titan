@@ -1,0 +1,409 @@
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_HANS_FREEZE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_STORAGE_TOOL
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MMC_DRIVER
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_UFS_DRIVER
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_UFS_SHOW_LATENCY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_AOD
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_DC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ENABLE_MODEM_DB
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ENGINEERTOOLS
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FACERECOGNITION
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FASTBOOT_UNLOCK_VERIFY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FG_IO_OPT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SDCARD_INFO
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FINGERPRINT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_HEALTHINFO
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_TASK_CPUSTATS
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MIPICLKCHANGE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MULTI_FREEAREA
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MULTI_KSWAPD
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_NFC_CONSOFT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ONSCREENFINGERPRINT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_OSC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_PHOENIX
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_AGINGTEST
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_PROCESS_RECLAIM
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_RESET_ROLLBACK_INDEX
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SELINUX_CONTROL_LOG
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR_ALGORITHM
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR_SMEM
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR_WISELIGHT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_IOMONITOR
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SPEAKER_MUTE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MM_FEEDBACK
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_TP_BSPFWUPDATE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_TP_BASIC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_CHG_BASIC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SCHED_ASSIST
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_VIRTUAL_RESERVE_MEMORY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MEMLEAK_DETECT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_WIFI_MTUDETECT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_WIFI_RUSUPGRADE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_WIFI_SLA
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_DATA_EVAL
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ZRAM_OPT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_EXFAT_SUPPORT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SDCARDFS_SUPPORT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_PERFORMANCE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_COMPATIBILITY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_STABILITY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_DEBUG
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_ARCH_INJECT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_ARCH_EXTENDS
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_LOWMEM_DBG
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_STABILITY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_POWERINFO_STANDBY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_CAMERA_COMMON
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MTK_ION_SEPARATE_LOCK
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_THEIA
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_APP_MONITOR
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SCHEDUTIL_USE_TL
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_HEALTHINFO
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_DISPLAY
+scripts/kconfig/conf -s --syncconfig Kconfig
+mm/damon/Kconfig:2:warning: ignoring unsupported character ''
+mm/damon/Kconfig:3:warning: ignoring unsupported character ''
+mm/damon/Kconfig:4:warning: ignoring unsupported character ''
+mm/damon/Kconfig:5:warning: ignoring unsupported character ''
+mm/damon/Kconfig:6:warning: ignoring unsupported character ''
+mm/damon/Kconfig:7:warning: ignoring unsupported character ''
+mm/damon/Kconfig:8:warning: ignoring unsupported character ''
+mm/damon/Kconfig:9:warning: ignoring unsupported character ''
+mm/damon/Kconfig:10:warning: ignoring unsupported character ''
+mm/damon/Kconfig:11:warning: ignoring unsupported character ''
+mm/damon/Kconfig:12:warning: ignoring unsupported character ''
+mm/damon/Kconfig:13:warning: ignoring unsupported character ''
+mm/damon/Kconfig:14:warning: ignoring unsupported character ''
+mm/damon/Kconfig:15:warning: ignoring unsupported character ''
+mm/damon/Kconfig:16:warning: ignoring unsupported character ''
+mm/damon/Kconfig:17:warning: ignoring unsupported character ''
+mm/damon/Kconfig:18:warning: ignoring unsupported character ''
+mm/damon/Kconfig:19:warning: ignoring unsupported character ''
+mm/damon/Kconfig:20:warning: ignoring unsupported character ''
+mm/malloc_track/Kconfig.compat:6: warning: ignoring unknown option env
+drivers/nfc/st21nfc-i2c/Kconfig:1:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:2:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:3:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:4:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:5:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:6:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:3:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:4:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:5:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:6:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:8:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:9:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:10:warning: ignoring unsupported character ''
+net/oplus_wificapcenter/Kconfig:11:warning: ignoring unsupported character ''
+drivers/misc/mediatek/base/power/Kconfig:90:warning: ignoring type redefinition of 'MTK_QOS_FRAMEWORK' from 'tristate' to 'bool'
+drivers/misc/mediatek/sensors-1.0/oplus_virtual_sensor/sensors/pedo_minutehub/Kconfig:1:warning: ignoring unsupported character ''
+drivers/misc/mediatek/sensors-1.0/oplus_virtual_sensor/sensors/pedo_minutehub/Kconfig:2:warning: ignoring unsupported character ''
+drivers/misc/mediatek/sensors-1.0/oplus_virtual_sensor/sensors/pedo_minutehub/Kconfig:3:warning: ignoring unsupported character ''
+drivers/misc/mediatek/sensor/2.0/mtk_nanohub/Kconfig:3:warning: ignoring type redefinition of 'CUSTOM_KERNEL_SENSORHUB' from 'bool' to 'tristate'
+drivers/misc/mediatek/sensor/2.0/oplus_virtual_sensor/sensors/pedo_minutehub/Kconfig:1:warning: ignoring unsupported character ''
+drivers/misc/mediatek/sensor/2.0/oplus_virtual_sensor/sensors/pedo_minutehub/Kconfig:2:warning: ignoring unsupported character ''
+drivers/misc/mediatek/sensor/2.0/oplus_virtual_sensor/sensors/pedo_minutehub/Kconfig:3:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:1:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:2:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:3:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:4:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:6:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:7:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:8:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:9:warning: ignoring unsupported character ''
+drivers/misc/aw8697_haptic/Kconfig:10:warning: ignoring unsupported character ''
+drivers/input/touchscreen/mediatek/goodix_berlin_driver/Kconfig:4:warning: ignoring type redefinition of 'TOUCHSCREEN_GOODIX_BRL' from 'bool' to 'tristate'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+drivers/power/supply/mediatek/charger/Kconfig:199:warning: ignoring type redefinition of 'CHARGER_BQ25890' from 'tristate' to 'bool'
+sound/soc/codecs/audio/Kconfig:13:warning: ignoring type redefinition of 'SND_SOC_AW87339' from 'tristate' to 'bool'
+drivers/soc/mediatek/Kconfig:7:warning: ignoring type redefinition of 'MTK_CMDQ' from 'bool' to 'tristate'
+drivers/soc/oplus/system/Kconfig:24:warning: prompt redefined
+drivers/soc/oplus/system/Kconfig:22:warning: ignoring type redefinition of 'OPPO_DEVICE_IFNO' from 'bool' to 'tristate'
+drivers/soc/oplus/system/oplus_pmic_monitor_mtk/Kconfig:4:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/oplus_pmic_monitor_mtk/Kconfig:5:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/oplus_pmic_monitor_mtk/Kconfig:6:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/oplus_pmic_monitor_mtk/Kconfig:7:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/oplus_saupwk/Kconfig:4:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/oplus_saupwk/Kconfig:5:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/oplus_saupwk/Kconfig:6:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/oplus_saupwk/Kconfig:7:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:3:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:4:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:5:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:6:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:8:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:9:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:10:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:11:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:12:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:14:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:15:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:16:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:17:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:18:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:20:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:21:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:22:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:23:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:24:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:26:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:27:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:28:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:29:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:30:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:32:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:33:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:34:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:35:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:36:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:38:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:39:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:40:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:41:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:42:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:45:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:46:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:47:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/cmdline_parser/Kconfig:48:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/rt_info/Kconfig:1:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/rt_info/Kconfig:2:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/rt_info/Kconfig:3:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/rt_info/Kconfig:4:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/last_boot_reason/Kconfig:3:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/last_boot_reason/Kconfig:4:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/last_boot_reason/Kconfig:5:warning: ignoring unsupported character ''
+drivers/soc/oplus/system/last_boot_reason/Kconfig:6:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:1:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:2:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:3:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:4:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:5:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:6:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:1:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:2:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:3:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:4:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:5:warning: ignoring unsupported character ''
+drivers/nfc/st21nfc-i2c/Kconfig:6:warning: ignoring unsupported character ''
+fs/proc/cpu_jankinfo/Kconfig:1:warning: ignoring unsupported character ''
+fs/proc/cpu_jankinfo/Kconfig:2:warning: ignoring unsupported character ''
+fs/proc/cpu_jankinfo/Kconfig:3:warning: ignoring unsupported character ''
+fs/proc/cpu_jankinfo/Kconfig:4:warning: ignoring unsupported character ''
+drivers/input/touchscreen/mediatek/hxchipset_hx83102p/Kconfig:19:warning: choice value used outside its choice group
+drivers/input/touchscreen/mediatek/hxchipset_hx83102p/Kconfig:28:warning: choice value used outside its choice group
+drivers/input/touchscreen/mediatek/hxchipset_hx83102p/Kconfig:16:warning: choice default symbol 'TOUCHSCREEN_HIMAX_INCELL' is not contained in the choice
+
+WARNING: unmet direct dependencies detected for MTK_PID_MAP
+  Depends on [n]: (MTK_GMO_RAM_OPTIMIZE [=n] && MTK_ENG_BUILD [=n] || !MTK_GMO_RAM_OPTIMIZE [=n]) && DEBUG_FS [=n]
+  Selected by [y]:
+  - MACH_MT6877 [=y]
+*
+* Restart config...
+*
+*
+* General architecture-dependent options
+*
+Kprobes (KPROBES) [Y/n/?] y
+Optimize very unlikely/likely branches (JUMP_LABEL) [N/y/?] n
+Stack Protector buffer overflow detection (STACKPROTECTOR) [Y/?] y
+  Strong Stack Protector (STACKPROTECTOR_STRONG) [Y/?] y
+Link-Time Optimization (LTO) (EXPERIMENTAL)
+> 1. None (LTO_NONE)
+  2. Use clang Link Time Optimization (LTO) (EXPERIMENTAL) (LTO_CLANG) (NEW)
+choice[1-2?]: 1
+Clang Shadow Call Stack (SHADOW_CALL_STACK) [N/y/?] (NEW) N
+Number of bits to use for ASLR of mmap base address (ARCH_MMAP_RND_BITS) [18] 18
+Number of bits to use for ASLR of mmap base address for compatible applications (ARCH_MMAP_RND_COMPAT_BITS) [11] 11
+Use a virtually-mapped stack (VMAP_STACK) [Y/n/?] y
+Perform full reference count validation at the expense of speed (REFCOUNT_FULL) [Y/?] y
+Use RELR relocation packing (RELR) [Y/n/?] (NEW) 
+WARNING: unmet direct dependencies detected for MTK_PID_MAP
+  Depends on [n]: (MTK_GMO_RAM_OPTIMIZE [=n] && MTK_ENG_BUILD [=n] || !MTK_GMO_RAM_OPTIMIZE [=n]) && DEBUG_FS [=n]
+  Selected by [y]:
+  - MACH_MT6877 [=y]
+Y
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_HANS_FREEZE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_STORAGE_TOOL
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MMC_DRIVER
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_UFS_DRIVER
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_UFS_SHOW_LATENCY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_AOD
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_DC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ENABLE_MODEM_DB
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ENGINEERTOOLS
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FACERECOGNITION
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FASTBOOT_UNLOCK_VERIFY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FG_IO_OPT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SDCARD_INFO
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_FINGERPRINT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_HEALTHINFO
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_TASK_CPUSTATS
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MIPICLKCHANGE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MULTI_FREEAREA
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MULTI_KSWAPD
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_NFC_CONSOFT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ONSCREENFINGERPRINT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_OSC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_PHOENIX
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_AGINGTEST
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_PROCESS_RECLAIM
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_RESET_ROLLBACK_INDEX
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SELINUX_CONTROL_LOG
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR_ALGORITHM
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR_SMEM
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SENSOR_WISELIGHT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_IOMONITOR
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SPEAKER_MUTE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MM_FEEDBACK
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_TP_BSPFWUPDATE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_TP_BASIC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_CHG_BASIC
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SCHED_ASSIST
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_VIRTUAL_RESERVE_MEMORY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MEMLEAK_DETECT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_WIFI_MTUDETECT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_WIFI_RUSUPGRADE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_WIFI_SLA
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_DATA_EVAL
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_ZRAM_OPT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_EXFAT_SUPPORT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SDCARDFS_SUPPORT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_PERFORMANCE
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_COMPATIBILITY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_STABILITY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_DEBUG
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_ARCH_INJECT
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_ARCH_EXTENDS
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_LOWMEM_DBG
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_BUG_STABILITY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_POWERINFO_STANDBY
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_CAMERA_COMMON
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_MTK_ION_SEPARATE_LOCK
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_THEIA
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_APP_MONITOR
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_SCHEDUTIL_USE_TL
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_HEALTHINFO
+OplusKernelEnvConfig.mk:108: myfeature is OPLUS_FEATURE_DISPLAY
+*GPU defined GPU BM QoS 2.0-414
+$GED: CONFIG_MTK_PLATFORM is ["mt6853"]
+$GED: CONFIG_MTK_PLATFORM is defined ["mt6853"]
+$GED: CONFIG_MTK_GPU_COMMON_DVFS_SUPPORT is defined [y]
+*MTK_GPU_VERSION 2 = valhall
+*MTK_GPU_VERSION 3 = r32p1
+mali MTK evironment, building r32p1 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6877"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r32p1 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6877"
+*GPU defined GPU BM QoS 2.0
+mali MTK evironment, building r32p1 DDK
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY := y
+mtk-Kbuild CONFIG_MALI_PLATFORM_THIRDPARTY_NAME := "mt6877"
+*GPU defined GPU BM QoS 2.0
+/home/ripper/compile/proton/bin/ld: /usr/lib/libc.so.6: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/libc.so.6 when searching for /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: cannot find /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: /usr/lib/libc.so.6: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/libc.so.6 when searching for /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: /usr/lib/ld-linux-x86-64.so.2: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/ld-linux-x86-64.so.2 when searching for /usr/lib/ld-linux-x86-64.so.2
+/home/ripper/compile/proton/bin/ld: cannot find /usr/lib/ld-linux-x86-64.so.2
+/home/ripper/compile/proton/bin/ld: /usr/lib/ld-linux-x86-64.so.2: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/ld-linux-x86-64.so.2 when searching for /usr/lib/ld-linux-x86-64.so.2
+collect2: error: ld returned 1 exit status
+make[3]: *** [scripts/Makefile.host:90: scripts/mod/mk_elfconfig] Error 1
+make[2]: *** [../scripts/Makefile.build:637: scripts/mod] Error 2
+make[2]: *** Waiting for unfinished jobs....
+In file included from ../arch/arm64/kernel/asm-offsets.c:21:
+In file included from ../include/linux/arm_sdei.h:14:
+In file included from ../arch/arm64/include/asm/sdei.h:15:
+In file included from ../include/linux/preempt.h:81:
+In file included from ./arch/arm64/include/generated/asm/preempt.h:1:
+In file included from ../include/asm-generic/preempt.h:5:
+In file included from ../include/linux/thread_info.h:39:
+In file included from ../arch/arm64/include/asm/thread_info.h:31:
+../arch/arm64/include/asm/stack_pointer.h:8:51: error: unknown register name 'rsp' in asm
+register unsigned long current_stack_pointer asm ("rsp");
+                                                  ^
+In file included from ../arch/arm64/kernel/asm-offsets.c:27:
+In file included from ../include/linux/suspend.h:5:
+In file included from ../include/linux/swap.h:9:
+In file included from ../include/linux/memcontrol.h:31:
+In file included from ../include/linux/writeback.h:184:
+In file included from ../include/linux/bio.h:21:
+In file included from ../include/linux/highmem.h:12:
+In file included from ../arch/arm64/include/asm/cacheflush.h:22:
+In file included from ../include/linux/kgdb.h:20:
+../arch/arm64/include/asm/kgdb.h:34:9: warning: 'BREAK_INSTR_SIZE' macro redefined [-Wmacro-redefined]
+#define BREAK_INSTR_SIZE        4
+        ^
+../arch/arm64/include/asm/debug-monitors.h:48:9: note: previous definition is here
+#define BREAK_INSTR_SIZE                AARCH64_INSN_SIZE
+        ^
+1 warning and 1 error generated.
+make[2]: *** [.././Kbuild:56: arch/arm64/kernel/asm-offsets.s] Error 1
+make[1]: *** [/home/ripper/compile/kernel/Makefile:1269: prepare0] Error 2
+make[1]: *** Waiting for unfinished jobs....
+../drivers/misc/mediatek/base/power/ppm_v3/src/Makefile:110: USE_PPM_CPI
+../drivers/misc/mediatek/base/power/qos/Makefile:45: extraneous text after 'else' directive
+..
+..
+FDVT: Drv use 5.1 folder
+../drivers/misc/mediatek/ccu/src/Makefile:33: CCU_MAKE_FILE_CALLED
+..
+..
+CONFIG_MTK_PLATFORM_CCCI := mt6853
+CONFIG_MTK_PLATFORM_CCCI := "mt6853"
+MTK_PLATFORM_CCCI := mt6853
+************  drivers/trusty/mtee-kree mk ************
+lowmem_dbg mtk_ion use kernel 4.19
+lowmem_dbg mtk_ion use kernel 4.19
+imgsensor drv by platform ./camera_project/k6877v1_64/ov64b_mipi_raw/ ./camera_project/k6877v1_64/imx355_mipi_raw/ ./camera_project/k6877v1_64/imx615_mipi_raw/ ./camera_project/k6877v1_64/ov02b10_mipi_raw/ ./camera_project/k6877v1_64/imx766_mossmipi_raw/ ./camera_project/k6877v1_64/imx471_mossmipi_raw/ ./camera_project/k6877v1_64/imx355_mossmipi_raw/ ./camera_project/k6877v1_64/gc02m1_mossmipi_raw/ ./camera_project/k6877v1_64/imx581_mipi_raw/ ./camera_project/k6877v1_64/imx471_mipi_raw/ ./camera_project/k6877v1_64/gc02m1b_mipi_mono/ ./camera_project/k6877v1_64/gc02m1_mipi_raw/ ./camera_project/k6877v1_64/ov64b_mipi_raw212a1/ ./camera_project/k6877v1_64/imx615_mipi_raw212a1/ ./camera_project/k6877v1_64/imx355_mipi_raw212a1/ ./camera_project/k6877v1_64/gc02m1_mipi_raw212a1/ ./camera_project/k6877v1_64/ov64b_mipi_raw21851/ ./camera_project/k6877v1_64/imx471_mipi_raw21851/ ./camera_project/k6877v1_64/imx355_mipi_raw21851/ ./camera_project/k6877v1_64/gc02m1_mipi_raw21851/ ./camera_project/k6877v1_64/imx766_mipi_raw22693/ ./camera_project/k6877v1_64/s5khm6sp_mipi_raw22693/ ./camera_project/k6877v1_64/s5k3p9sp_mipi_raw22693/ ./camera_project/k6877v1_64/imx355_mipi_raw22693/ ./camera_project/k6877v1_64/gc02m1_mipi_raw22693/ ./camera_project/k6877v1_64/s5kgm1st_mossamipi_raw/ ./camera_project/k6877v1_64/gc02m1_mossamipi_raw/
+imgsensor subdir-ccflags-y = -DIMGSENSOR_MT6877 -I../drivers/misc/mediatek/imgsensor/src/common/v1_1 -I../drivers/misc/mediatek/mmdvfs -I../drivers/i2c/busses/ -I../drivers/misc/mediatek/imgsensor/src/mt6853/camera_hw_mt6877 -I../drivers/misc/mediatek/imgsensor/src/mt6853/camera_hw -I../drivers/misc/mediatek/imgsensor/src/common/v1_1/camera_hw -DSENSOR_PARALLEISM -DSENSOR_PLATFORM_5G_B -I../drivers/misc/mediatek/imgsensor/src/mt6853/seninf_mt6877/ -I../drivers/misc/mediatek/imgsensor/src/mt6853/seninf/
+imgsensor drv by project ov64b_mipi_raw/ imx355_mipi_raw/ imx615_mipi_raw/ ov02b10_mipi_raw/ imx766_mossmipi_raw/ imx471_mossmipi_raw/ imx355_mossmipi_raw/ gc02m1_mossmipi_raw/ imx581_mipi_raw/ imx471_mipi_raw/ gc02m1b_mipi_mono/ gc02m1_mipi_raw/ ov64b_mipi_raw212a1/ imx615_mipi_raw212a1/ imx355_mipi_raw212a1/ gc02m1_mipi_raw212a1/ ov64b_mipi_raw21851/ imx471_mipi_raw21851/ imx355_mipi_raw21851/ gc02m1_mipi_raw21851/ imx766_mipi_raw22693/ s5khm6sp_mipi_raw22693/ s5k3p9sp_mipi_raw22693/ imx355_mipi_raw22693/ gc02m1_mipi_raw22693/ s5kgm1st_mossamipi_raw/ gc02m1_mossamipi_raw/
+/home/ripper/compile/proton/bin/ld: /usr/lib/libc.so.6: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/libc.so.6 when searching for /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: cannot find /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: /usr/lib/libc.so.6: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/libc.so.6 when searching for /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: /usr/lib/ld-linux-x86-64.so.2: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/ld-linux-x86-64.so.2 when searching for /usr/lib/ld-linux-x86-64.so.2
+/home/ripper/compile/proton/bin/ld: cannot find /usr/lib/ld-linux-x86-64.so.2
+/home/ripper/compile/proton/bin/ld: /usr/lib/ld-linux-x86-64.so.2: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/ld-linux-x86-64.so.2 when searching for /usr/lib/ld-linux-x86-64.so.2
+collect2: error: ld returned 1 exit status
+make[3]: *** [scripts/Makefile.host:99: scripts/genksyms/genksyms] Error 1
+make[2]: *** [../scripts/Makefile.build:637: scripts/genksyms] Error 2
+ION:enable mtk ion
+/home/ripper/compile/proton/bin/ld: /usr/lib/libc.so.6: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/libc.so.6 when searching for /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: cannot find /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: /usr/lib/libc.so.6: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/libc.so.6 when searching for /usr/lib/libc.so.6
+/home/ripper/compile/proton/bin/ld: /usr/lib/ld-linux-x86-64.so.2: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/ld-linux-x86-64.so.2 when searching for /usr/lib/ld-linux-x86-64.so.2
+/home/ripper/compile/proton/bin/ld: cannot find /usr/lib/ld-linux-x86-64.so.2
+/home/ripper/compile/proton/bin/ld: /usr/lib/ld-linux-x86-64.so.2: unknown type [0x13] section `.relr.dyn'
+/home/ripper/compile/proton/bin/ld: skipping incompatible /usr/lib/ld-linux-x86-64.so.2 when searching for /usr/lib/ld-linux-x86-64.so.2
+collect2: error: ld returned 1 exit status
+make[3]: *** [scripts/Makefile.host:99: scripts/dtc/dtc] Error 1
+make[2]: *** [../scripts/Makefile.build:637: scripts/dtc] Error 2
+make[1]: *** [/home/ripper/compile/kernel/Makefile:1235: scripts] Error 2
+TCORE_UT_TESTS_SUPPORT = n
+TCORE_PROFILING_SUPPORT = n
+TCORE_PROFILING_AUTO_DUMP = n
+TCORE_MEMORY_LEAK_DETECTION_SUPPORT = n
+make: *** [Makefile:146: sub-make] Error 2
